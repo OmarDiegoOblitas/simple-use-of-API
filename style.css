@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+h1 {
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+}
+
+button{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background: lightcoral;
+    border: none;
+    color: white;
+}
+.btn{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
